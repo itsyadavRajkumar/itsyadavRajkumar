@@ -6,12 +6,18 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 ⌨️ SKILLS AND LANGUAGES
-- Coursework: Data Structures and Algorithms, DBMS, OOPs
-- Programming Languages: C, CPP, Java, Javascript
-- Databases: MySQL
-- Framework: Spring Boot
-- Tools: Eclipse, IntelliJ, Maven
-- Version Control: GIT
+ • Coursework: Data Structures and Algorithms, DBMS, OOPs
+ • Programming Languages: Java, C++, C, Python(basic)
+ • Databases: SQL, MySQL, PostgreSQL, Oracle, MongoDB
+ • Web Technologies: RESTful APIs, JWT, JSON
+ • Frameworks: Spring Boot, Spring Cloud, Microservices, Hibernate
+ • Monitoring Tools: Grafana, Prometheus
+ • Operating Systems: Windows, Linux (Ubuntu)
+ • Messaging & Streaming: Apache Kafka, Apache Avro
+ • CI/CD & Agile: CI/CD pipelines, Agile Development
+ • Design Patterns: Strategy, Singleton, Factory, Observer, Builder, MVC, etc.
+ • Familiar Skills: UML diagrams, System Architecture
+ • Developer Tools: Git, GitHub, Bitbucket, Docker, Jira, Postman, VS Code, IntelliJ, Eclipse, Maven
 
 📫 Contact me **rajkumaryadav.nitjsr@gmail.com**
 <h3 align="left">Connect with me:</h3>
