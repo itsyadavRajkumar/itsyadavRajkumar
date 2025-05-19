@@ -8,8 +8,10 @@
 ⌨️ SKILLS AND LANGUAGES
  - Coursework: Data Structures and Algorithms, DBMS, OOPs
  - Programming Languages: Java, C++, C, Python(basic)
- • Databases: SQL, MySQL, PostgreSQL, Oracle, MongoDB
- • Web Technologies: RESTful APIs, JWT, JSON
+ - Databases: SQL, MySQL, PostgreSQL, Oracle, MongoDB
+ - Web Technologies: RESTful APIs, JWT, JSON
+ • 
+ • 
  • Frameworks: Spring Boot, Spring Cloud, Microservices, Hibernate
  • Monitoring Tools: Grafana, Prometheus
  • Operating Systems: Windows, Linux (Ubuntu)
