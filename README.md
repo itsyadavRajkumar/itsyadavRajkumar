@@ -6,8 +6,8 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 ⌨️ SKILLS AND LANGUAGES
- • Coursework: Data Structures and Algorithms, DBMS, OOPs
- • Programming Languages: Java, C++, C, Python(basic)
+ - Coursework: Data Structures and Algorithms, DBMS, OOPs
+ - Programming Languages: Java, C++, C, Python(basic)
  • Databases: SQL, MySQL, PostgreSQL, Oracle, MongoDB
  • Web Technologies: RESTful APIs, JWT, JSON
  • Frameworks: Spring Boot, Spring Cloud, Microservices, Hibernate
